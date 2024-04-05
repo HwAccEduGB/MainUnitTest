@@ -1,7 +1,5 @@
 package model;
 
-import java.util.Arrays;
-
 public class DataHandler {
     private static String trouble;
     private static String[] resultArr;
